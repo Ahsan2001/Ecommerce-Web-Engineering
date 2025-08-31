@@ -25,7 +25,10 @@ Built with the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
 - Dashboard to manage entire store  
 - Product, Category & Order Management  
 - User Management  
-- Reports & Analytics  
+- Reports & Analytics
+- Credientials :
+-   Email: admin@example.com
+-   Pssword: admin@123 
 
 ---
 
