@@ -37,12 +37,6 @@ Built with the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.
 - **Payment:** Stripe/PayPal Sandbox  
 - **Deployment:** Vercel (Frontend) + Render/Heroku (Backend)  
 
----
-
-## 📸 Screenshots
-(Add your screenshots here)
-
----
 
 ## 📘 Project Report
 Full documentation available in the project submission report.
